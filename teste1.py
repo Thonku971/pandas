@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 print(pd.DataFrame({'Yes' : [50, 21], 'No' : [131,2] }))
 
 print(pd.DataFrame({'Joao' : ['Sim', 'Não'], 'Maria' : ['Sim', 'Não'] }))
@@ -18,3 +19,4 @@ print(wine_review.shape)
 
 
 print(wine_review.head())
+
